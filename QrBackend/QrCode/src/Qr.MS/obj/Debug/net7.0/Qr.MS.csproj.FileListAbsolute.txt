@@ -1,0 +1,370 @@
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/appsettings.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Qr.MS.exe
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Qr.MS.deps.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Qr.MS.runtimeconfig.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Qr.MS.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Qr.MS.pdb
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.AssemblyReference.cache
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfoInputs.cache
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfo.cs
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CoreCompileInputs.cache
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.build.Qr.MS.props
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Qr.MS.props
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Qr.MS.props
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/scopedcss/bundle/Qr.MS.styles.css
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CopyComplete
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/refint/Qr.MS.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.pdb
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/Qr.MS.genruntimeconfig.cache
+C:/Users/hp/Desktop/Qr/src/Qr.MS/obj/Debug/net7.0/ref/Qr.MS.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/AWSSDK.Core.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Common.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/DnsClient.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/MongoDB.Bson.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/SharpCompress.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/Snappier.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/hp/Desktop/Qr/src/Qr.MS/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/appsettings.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.exe
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.deps.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.runtimeconfig.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.pdb
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/AWSSDK.Core.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Common.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/DnsClient.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Bson.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/SharpCompress.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Snappier.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.AssemblyReference.cache
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfoInputs.cache
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfo.cs
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CoreCompileInputs.cache
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.build.Qr.MS.props
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Qr.MS.props
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Qr.MS.props
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/scopedcss/bundle/Qr.MS.styles.css
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CopyComplete
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/refint/Qr.MS.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.pdb
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.genruntimeconfig.cache
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/obj/Debug/net7.0/ref/Qr.MS.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/hp/Desktop/QrCode/src/Qr.MS/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.AssemblyReference.cache
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfoInputs.cache
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.AssemblyInfo.cs
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CoreCompileInputs.cache
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/refint/Qr.MS.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.pdb
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/appsettings.Development.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/appsettings.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.deps.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.runtimeconfig.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Qr.MS.pdb
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/AWSSDK.Core.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Common.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/DnsClient.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Bson.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/SharpCompress.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Snappier.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/ZstdSharp.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.build.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.development.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.build.Qr.MS.props
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Qr.MS.props
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Qr.MS.props
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/staticwebassets.pack.json
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/scopedcss/bundle/Qr.MS.styles.css
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.csproj.CopyComplete
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/Qr.MS.genruntimeconfig.cache
+/home/wendecoder/Downloads/Qr code Backend/QrCode/src/Qr.MS/obj/Debug/net7.0/ref/Qr.MS.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.exe
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.deps.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.runtimeconfig.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Common.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\DnsClient.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Snappier.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfo.cs
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.build.Qr.MS.props
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Qr.MS.props
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Qr.MS.props
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\scopedcss\bundle\Qr.MS.styles.css
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CopyComplete
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\refint\Qr.MS.dll
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.genruntimeconfig.cache
+C:\Users\hp\Desktop\idk\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\ref\Qr.MS.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.exe
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.deps.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.runtimeconfig.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Common.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\DnsClient.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Snappier.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfo.cs
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.build.Qr.MS.props
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Qr.MS.props
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Qr.MS.props
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\scopedcss\bundle\Qr.MS.styles.css
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CopyComplete
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\refint\Qr.MS.dll
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.genruntimeconfig.cache
+C:\Users\hp\Desktop\last http\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\ref\Qr.MS.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\appsettings.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.exe
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.deps.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.runtimeconfig.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Common.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\DnsClient.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Snappier.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.AssemblyInfo.cs
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.Qr.MS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.build.Qr.MS.props
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Qr.MS.props
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Qr.MS.props
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\scopedcss\bundle\Qr.MS.styles.css
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.csproj.CopyComplete
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\refint\Qr.MS.dll
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.pdb
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\Qr.MS.genruntimeconfig.cache
+C:\Users\hp\Desktop\Test\Qr Code Project\Qr Code Project\Qr code Backend\QrCode\src\Qr.MS\obj\Debug\net7.0\ref\Qr.MS.dll

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Authentication.MS</id>
+    <version>1.0.0</version>
+    <authors>Authentication.MS</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Cors" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.OpenApi" version="7.0.14" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="7.0.3" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="7.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net7.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net7.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/bin/Release/net7.0/Authentication.MS.runtimeconfig.json" target="lib/net7.0/Authentication.MS.runtimeconfig.json" />
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/bin/Release/net7.0/Authentication.MS.dll" target="lib/net7.0/Authentication.MS.dll" />
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/appsettings.Development.json" target="content/appsettings.Development.json" />
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/appsettings.Development.json" target="contentFiles/any/net7.0/appsettings.Development.json" />
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/appsettings.json" target="content/appsettings.json" />
+    <file src="/home/wendecoder/Downloads/Qr code Backend/Athentication/src/Authentication.MS/appsettings.json" target="contentFiles/any/net7.0/appsettings.json" />
+  </files>
+</package>
